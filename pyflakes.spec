@@ -8,6 +8,7 @@ License:	BSD
 Group:      Development/Python		
 URL:		http://divmod.org/projects/pyflakes
 Source:		http://divmod.org/static/projects/%{name}/%{name}-%{version}.tar.bz2
+Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Buildrequires:	python-devel
 BuildArch:      noarch
 %description
