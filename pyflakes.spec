@@ -12,7 +12,7 @@ Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Buildrequires:	python-devel
 BuildArch:      noarch
 %description
-Pyflakes is a simple program which checks Python source files for errors. It is 
+Pyflakes is a simple program which checks Python source files for errors. It is
 similar to PyChecker in scope, but differs in that it does not execute the 
 modules to check them. This is both safer and faster, although it does not 
 perform as many checks. 
