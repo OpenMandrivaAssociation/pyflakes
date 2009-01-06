@@ -1,4 +1,4 @@
-%define rel 2
+%define rel 3
 
 Name:		pyflakes
 Version:	0.2.1
