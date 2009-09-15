@@ -1,6 +1,6 @@
 Name:		pyflakes
 Version:	0.3.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Simple program which checks Python source files for errors
 License:	BSD
 Group:      Development/Python
