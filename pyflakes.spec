@@ -1,11 +1,11 @@
 Name:		pyflakes
-Version:	0.3.0
-Release:	%mkrel 2
+Version:	0.4.0
+Release:	%mkrel 1
 Summary:	Simple program which checks Python source files for errors
 License:	BSD
 Group:      Development/Python
-URL:		http://divmod.org/projects/pyflakes
-Source:		http://divmod.org/static/projects/%{name}/%{name}-%{version}.tar.bz2
+URL:		http://divmod.org/trac/wiki/DivmodPyflakes
+Source:		%{name}/%{name}-%{version}.tar.gz
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Buildrequires:	python-devel
 BuildArch:      noarch
