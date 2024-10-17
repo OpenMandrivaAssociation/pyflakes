@@ -4,7 +4,7 @@ Release:	3
 Summary:	Simple program which checks Python source files for errors
 License:	BSD
 Group:      Development/Python
-URL:		http://divmod.org/trac/wiki/DivmodPyflakes
+URL:		https://divmod.org/trac/wiki/DivmodPyflakes
 Source:		%{name}/%{name}-%{version}.tar.gz
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Buildrequires:	python-devel
